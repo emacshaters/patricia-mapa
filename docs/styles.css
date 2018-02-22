@@ -1,0 +1,25 @@
+body {
+  margin-left: 200px;
+  margin-right: 400px;
+  padding: 5px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #343434;
+}
+
+h1 {
+  margin-left: -100px;
+  color: pink;
+}
+
+h2 {
+    color: #ff007f;
+}
+
+h3 {
+    color: #FD6C9E;
+}
+
+#mapa {
+    margin-left: -100px;
+    margin-right: -100px;
+}
